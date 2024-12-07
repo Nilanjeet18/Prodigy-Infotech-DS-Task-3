@@ -1,6 +1,6 @@
 # Prodigy InfoTech Data Science Internship Task 3:
 
-Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data.Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
+Welcome to my submission for Task 3 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data.Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
 
 ## Tools and Libraries used
 - Jupyter Notebook
