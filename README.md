@@ -7,6 +7,7 @@ Welcome to my submission for Task 3 of the Data Science Internship at Prodigy In
 - Pandas
 - Numpy
 - Matplotlip & Seaborn for visualization
+- warnings
 
 ## Exploratory Data Analysis (EDA)
 
